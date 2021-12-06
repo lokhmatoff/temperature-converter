@@ -1,0 +1,5 @@
+[package]
+name = "temperature-converter"
+version = "0.1.0"
+authors = ["Lokhmatoff <shaggydmitrydev@gmail.com"]
+edition = "2021"
