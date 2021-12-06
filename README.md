@@ -1,5 +1,5 @@
 # Rusty Temperature Converter
-<small>This is the pet project</small>
+###### This is the pet project
 
 Convert Fahrenheit to Celsius and vice versa 🌡️ <br />
 The program was implemented in the course of studying basic concepts of Rust 🦀
